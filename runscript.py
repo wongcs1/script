@@ -4,7 +4,7 @@ import os
 import slacker_config
 
 
-class Run():
+class Runscript():
     def __init__(self):
         # hard code the function as string in this array
         self.services_strings = ['']
